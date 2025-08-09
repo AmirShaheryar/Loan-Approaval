@@ -23,5 +23,3 @@ Loan approval is a critical decision-making process in the financial sector. Thi
 
 Both models were evaluated and compared using classification metrics. SMOTE significantly improved performance on imbalanced data.
 
-## 📁 Project Structure
-
